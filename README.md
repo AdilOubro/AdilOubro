@@ -2,8 +2,7 @@
 - 👀 I’m interested in AI , and deep Learning 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on some project 
-- 📫 How to reach m
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: Cristiano Ronaldo >>>> messi
 
 <!---
